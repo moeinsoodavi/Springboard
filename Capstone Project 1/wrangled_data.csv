@@ -68,6 +68,7 @@ AL,Wilcox County,South,9.0,20.145,44.913,23.639,11.302,32.0,14.7
 AL,Winston County,South,6.0,23.996,34.341,28.575,13.089,17.0,7.3
 AK,Aleutians East Borough,West,9.0,15.639,42.043,30.373,11.945,15.0,2.7
 AK,Aleutians West Census Area,West,9.0,12.521,40.308,31.471,15.699,8.0,3.3
+AK,Anchorage Borough,West,2.0,6.715,23.955,35.032,34.298,7.0,5.3
 AK,Bethel Census Area,West,7.0,19.099,45.407,24.077,11.417,26.0,14.1
 AK,Bristol Bay Borough,West,9.0,7.396,34.823,38.675,19.106,11.0,6.9
 AK,Denali Borough,West,8.0,3.792,23.353,34.331,38.523,6.0,8.6
@@ -75,6 +76,7 @@ AK,Dillingham Census Area,West,9.0,13.208,36.863,32.365,17.564,20.0,9.7
 AK,Fairbanks North Star Borough,West,3.0,5.608,22.193,38.827,33.373,9.0,5.7
 AK,Haines Borough,West,9.0,4.548,25.663,29.345,40.444,10.0,9.8
 AK,Hoonah-Angoon Census Area,West,9.0,9.436,33.882,32.426,24.256,19.0,11.5
+AK,Juneau Borough,West,5.0,4.375,21.195,34.996,39.434,7.0,4.4
 AK,Kenai Peninsula Borough,West,7.0,7.269,32.189,36.861,23.681,12.0,8.2
 AK,Ketchikan Gateway Borough,West,7.0,7.966,31.746,36.519,23.77,9.0,6.2
 AK,Kodiak Island Borough,West,7.0,9.335,27.273,38.542,24.85,7.0,5.0
@@ -84,10 +86,14 @@ AK,Matanuska-Susitna Borough,West,2.0,7.598,31.838,39.977,20.588,10.0,8.1
 AK,Nome Census Area,West,7.0,15.076,43.082,27.932,13.91,24.0,12.5
 AK,North Slope Borough,West,7.0,11.633,37.844,36.341,14.182,12.0,6.5
 AK,Northwest Arctic Borough,West,7.0,20.881,44.953,23.404,10.762,28.0,15.7
+AK,Petersburg Borough,West,9.0,7.612,33.712,33.664,25.012,8.0,8.6
 AK,Prince of Wales-Hyder Census Area,West,9.0,9.48,39.121,35.607,15.792,18.0,11.7
+AK,Sitka Borough,West,7.0,7.354,25.683,34.609,32.354,8.0,4.3
 AK,Skagway Municipality,West,9.0,3.47,24.907,37.918,33.705,4.0,10.6
 AK,Southeast Fairbanks Census Area,West,9.0,9.255,33.415,38.131,19.199,12.0,10.2
 AK,Valdez-Cordova Census Area,West,9.0,7.215,27.326,35.371,30.088,9.0,8.2
+AK,Wrangell Borough,West,9.0,11.885,34.295,33.56,20.26,12.0,7.3
+AK,Yakutat Borough,West,9.0,5.543,40.798,33.925,19.734,17.0,8.1
 AK,Yukon-Koyukuk Census Area,West,9.0,17.114,39.932,30.698,12.256,23.0,17.2
 AZ,Apache County,West,6.0,21.758,33.493,33.69,11.059,33.0,11.3
 AZ,Cochise County,West,3.0,13.409,23.216,40.212,23.163,21.0,6.1
@@ -216,6 +222,7 @@ CA,Sacramento County,West,1.0,13.221,22.403,35.093,29.284,16.0,5.4
 CA,San Benito County,West,1.0,21.704,24.637,34.704,18.955,11.0,6.8
 CA,San Bernardino County,West,1.0,21.208,26.219,33.257,19.317,18.0,5.7
 CA,San Diego County,West,1.0,13.598,18.81,31.097,36.494,12.0,4.7
+CA,San Francisco County,West,1.0,12.56,12.465,20.182,54.793,10.0,3.3
 CA,San Joaquin County,West,2.0,22.015,26.649,33.173,18.162,15.0,8.1
 CA,San Luis Obispo County,West,2.0,9.876,19.368,36.697,34.059,11.0,4.3
 CA,San Mateo County,West,1.0,11.372,15.946,25.63,47.051,7.0,3.0
@@ -243,6 +250,7 @@ CO,Archuleta County,West,7.0,8.634,25.606,30.828,34.931,12.0,3.3
 CO,Baca County,West,9.0,13.746,29.553,34.861,21.84,20.0,1.7
 CO,Bent County,West,7.0,15.764,45.456,29.288,9.492,34.0,3.1
 CO,Boulder County,West,2.0,5.539,12.877,22.272,59.313,11.0,2.7
+CO,Broomfield County,West,1.0,3.948,15.049,28.546,52.457,5.0,2.9
 CO,Chaffee County,West,7.0,8.316,26.2,31.072,34.412,11.0,2.7
 CO,Cheyenne County,West,9.0,9.373,34.014,33.333,23.28,14.0,2.3
 CO,Clear Creek County,West,1.0,3.067,20.343,32.027,44.562,8.0,3.2
@@ -251,6 +259,7 @@ CO,Costilla County,West,9.0,23.018,26.35,30.601,20.031,30.0,4.9
 CO,Crowley County,West,8.0,17.153,40.407,32.192,10.249,48.0,3.6
 CO,Custer County,West,8.0,8.299,21.821,40.478,29.403,14.0,3.2
 CO,Delta County,West,6.0,11.989,36.905,31.499,19.606,18.0,5.0
+CO,Denver County,West,1.0,13.639,17.63,23.012,45.719,14.0,3.1
 CO,Dolores County,West,9.0,9.132,38.698,31.886,20.284,13.0,4.0
 CO,Douglas County,West,1.0,2.083,12.29,28.1,57.526,3.0,2.7
 CO,Eagle County,West,5.0,11.182,17.905,25.879,45.035,8.0,2.8
@@ -537,6 +546,7 @@ GA,Wilkes County,South,6.0,22.051,41.952,22.211,13.786,23.0,6.3
 GA,Wilkinson County,South,8.0,17.328,50.086,23.945,8.641,21.0,6.3
 GA,Worth County,South,3.0,22.56,40.672,26.555,10.213,21.0,5.9
 HI,Hawaii County,West,5.0,8.362,31.722,32.324,27.591,15.0,3.8
+HI,Honolulu County,West,2.0,8.946,26.162,31.541,33.351,9.0,2.8
 HI,Kauai County,West,5.0,8.084,31.134,32.992,27.79,8.0,3.3
 HI,Maui County,West,3.0,8.176,31.456,34.67,25.698,10.0,3.2
 ID,Ada County,West,2.0,5.438,21.849,35.743,36.97,11.0,3.3
@@ -632,6 +642,7 @@ IL,Kankakee County,Midwest,3.0,12.658,34.03,34.354,18.958,14.0,6.4
 IL,Kendall County,Midwest,1.0,6.828,24.219,34.681,34.272,5.0,5.2
 IL,Knox County,Midwest,4.0,12.002,36.683,33.245,18.07,17.0,6.1
 IL,Lake County,Midwest,1.0,10.195,20.945,25.164,43.696,9.0,5.2
+IL,La Salle County,Midwest,4.0,11.557,36.583,34.896,16.963,13.0,6.7
 IL,Lawrence County,Midwest,7.0,21.944,34.343,33.565,10.148,19.0,7.5
 IL,Lee County,Midwest,6.0,11.724,36.328,34.236,17.711,13.0,5.1
 IL,Livingston County,Midwest,4.0,11.73,41.452,31.606,15.212,14.0,5.5
@@ -700,6 +711,7 @@ IN,Crawford County,Midwest,8.0,17.307,47.66,25.239,9.794,17.0,5.6
 IN,Daviess County,Midwest,7.0,25.283,36.321,24.391,14.005,14.0,3.6
 IN,Dearborn County,Midwest,1.0,9.366,40.161,30.509,19.964,8.0,4.7
 IN,Decatur County,Midwest,6.0,10.932,43.542,27.347,18.179,12.0,3.6
+IN,DeKalb County,Midwest,4.0,10.271,41.894,30.466,17.369,9.0,3.9
 IN,Delaware County,Midwest,3.0,10.477,35.633,30.604,23.285,22.0,5.2
 IN,Dubois County,Midwest,5.0,12.023,40.33,27.918,19.729,7.0,3.1
 IN,Elkhart County,Midwest,3.0,19.491,36.714,25.525,18.269,13.0,3.5
@@ -726,7 +738,9 @@ IN,Jennings County,Midwest,6.0,15.48,47.22,27.663,9.637,13.0,4.8
 IN,Johnson County,Midwest,1.0,8.499,32.733,29.266,29.501,8.0,3.6
 IN,Knox County,Midwest,5.0,11.461,36.601,36.702,15.236,17.0,4.4
 IN,Kosciusko County,Midwest,4.0,15.231,36.984,26.56,21.225,10.0,3.7
+IN,LaGrange County,Midwest,6.0,35.716,31.994,21.094,11.196,10.0,3.4
 IN,Lake County,Midwest,1.0,12.412,35.27,31.431,20.888,17.0,6.3
+IN,LaPorte County,Midwest,3.0,12.466,38.903,31.043,17.587,16.0,5.9
 IN,Lawrence County,Midwest,6.0,11.605,42.495,31.556,14.343,14.0,5.7
 IN,Madison County,Midwest,1.0,12.53,39.21,30.868,17.393,18.0,5.0
 IN,Marion County,Midwest,1.0,14.344,28.123,28.512,29.021,19.0,4.4
@@ -1126,6 +1140,7 @@ LA,Jefferson Parish,South,1.0,15.313,31.131,28.739,24.816,16.0,5.3
 LA,Jefferson Davis Parish,South,6.0,20.979,41.275,23.201,14.546,19.0,6.0
 LA,Lafayette Parish,South,2.0,13.638,28.238,27.238,30.886,18.0,6.2
 LA,Lafourche Parish,South,3.0,24.691,39.277,19.874,16.158,17.0,6.3
+LA,La Salle Parish,South,6.0,24.236,42.802,21.919,11.043,19.0,6.6
 LA,Lincoln Parish,South,4.0,12.518,27.549,24.569,35.365,30.0,6.5
 LA,Livingston Parish,South,2.0,16.09,40.219,26.291,17.4,13.0,5.1
 LA,Madison Parish,South,7.0,25.554,40.369,22.06,12.017,41.0,9.0
@@ -1209,6 +1224,7 @@ MA,Franklin County,Northeast,4.0,7.227,27.555,29.318,35.9,10.0,3.3
 MA,Hampden County,Northeast,2.0,14.627,30.376,28.763,26.234,17.0,5.0
 MA,Hampshire County,Northeast,2.0,5.741,24.306,25.23,44.723,12.0,3.3
 MA,Middlesex County,Northeast,1.0,7.36,20.554,19.081,53.005,8.0,3.0
+MA,Nantucket County,Northeast,7.0,5.331,25.022,27.63,42.017,6.0,4.2
 MA,Norfolk County,Northeast,1.0,6.138,20.919,21.734,51.208,6.0,3.2
 MA,Plymouth County,Northeast,1.0,7.532,28.983,28.467,35.018,8.0,3.9
 MA,Suffolk County,Northeast,1.0,15.205,23.326,18.749,42.721,20.0,3.4
@@ -1783,6 +1799,7 @@ NM,Chaves County,West,5.0,21.874,26.721,32.116,19.288,22.0,6.8
 NM,Cibola County,West,6.0,19.874,33.558,34.122,12.446,27.0,8.3
 NM,Colfax County,West,7.0,11.301,34.149,32.418,22.132,21.0,6.1
 NM,Curry County,West,5.0,16.835,26.539,36.893,19.732,19.0,5.1
+NM,De Baca County,West,9.0,14.113,38.575,37.769,9.543,21.0,4.9
 NM,Dona Ana County,West,3.0,21.046,22.281,29.142,27.53,26.0,7.2
 NM,Eddy County,West,5.0,15.515,35.862,31.653,16.97,15.0,6.6
 NM,Grant County,West,7.0,14.022,26.22,32.363,27.395,23.0,6.6
@@ -2266,6 +2283,7 @@ PA,Lebanon County,Northeast,3.0,13.968,43.323,22.85,19.859,10.0,4.5
 PA,Lehigh County,Northeast,2.0,11.935,33.331,25.827,28.908,14.0,5.4
 PA,Luzerne County,Northeast,2.0,10.906,39.159,27.882,22.053,15.0,6.4
 PA,Lycoming County,Northeast,3.0,11.142,40.213,28.021,20.625,15.0,6.7
+PA,McKean County,Northeast,7.0,10.439,47.89,24.676,16.995,17.0,6.7
 PA,Mercer County,Northeast,2.0,10.486,44.139,23.799,21.575,16.0,6.0
 PA,Mifflin County,Northeast,4.0,16.948,51.132,19.852,12.067,15.0,5.8
 PA,Monroe County,Northeast,3.0,10.45,36.474,29.523,23.554,12.0,6.3
@@ -2274,6 +2292,7 @@ PA,Montour County,Northeast,3.0,10.154,41.485,19.867,28.494,11.0,4.3
 PA,Northampton County,Northeast,2.0,9.577,35.138,27.411,27.874,9.0,5.2
 PA,Northumberland County,Northeast,4.0,14.181,50.222,20.576,15.021,15.0,6.3
 PA,Perry County,Northeast,2.0,11.734,46.232,25.689,16.344,9.0,4.7
+PA,Philadelphia County,Northeast,1.0,17.391,33.508,22.751,26.35,25.0,6.8
 PA,Pike County,Northeast,1.0,9.254,34.932,30.518,25.296,10.0,6.4
 PA,Potter County,Northeast,9.0,12.5,47.865,24.586,15.049,14.0,7.9
 PA,Schuylkill County,Northeast,4.0,12.114,47.679,24.891,15.316,13.0,6.2
