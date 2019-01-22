@@ -2,4 +2,5 @@ Every year federal and state governments allocate budgets to reduce poverty. By 
 Three datasets were processed in this project. Multiple techniques of data cleaning including filtering, validating data, dealing with null and duplicate data, and merging were used to obtain the final DataFrame. In the next step, several figures including boxplots, pairplots, and heatmaps were analyzed to understand the story behind the data and examine the relationships between different variables in the DataFrame. Then, two models, a linear model and a Random Forest, were developed to predict the response variable, poverty, based on the features. At the end, the two models were compared to each other based on their performance in predicting the response variable of a test dataset. 
 
 **Report: **https://docs.google.com/document/d/1alAh3-FzEKB7FJR3yVlArgoFr8lKQVjkWH6lXi2WNZ8/edit#
+
 **Presentation: **https://docs.google.com/presentation/d/1n2ndkzaAhKQe5U4f8yinuyiILRjdMcoFBzxdVhMD3Ck/edit#slide=id.g4c413570da_0_5568
